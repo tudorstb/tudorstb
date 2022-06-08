@@ -2,7 +2,7 @@
 - 🤖 Student at Universitatea Politehnica Timișoara - AC -CTi (computer science engineering) - First year
 - 🦸‍♂️ I’m interested in new and intriguing projects
 - 👨‍💻 Already acquainted with: C++, HTML, CSS, Greenfoot, Python(in progress)
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python by following a course provided by IT Factory https://www.itfactory.ro/
 - 👀 I'm currently looking for a job
 - 📫 You can reach me on my gmail adress:tudor.stanescu.work@gmail.com
 <!---
