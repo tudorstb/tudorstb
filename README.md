@@ -1,8 +1,8 @@
 - 👋 Hello ,my name is Stanescu Tudor-Bogdan
-- 🤖 Student at Universitatea Politehnica Timișoara - AC -CTi (computer science engineering) - First year
+- 🤖 Student at Universitatea de Vest Timișoara - Computer Science - First year
 - 🦸‍♂️ I’m interested in new and intriguing projects
 - 👨‍💻 Already acquainted with: C++, HTML, CSS, Greenfoot, Python(in progress)
-- 🌱 I’m currently learning python by following a course provided by IT Factory https://www.itfactory.ro/
+- 🌱 Just finished a course provided by IT Factory https://www.itfactory.ro/ in which i learned python 
 - 👀 I'm currently looking for a job
 - 📫 You can reach me on my gmail adress:tudor.stanescu.work@gmail.com
 <!---
