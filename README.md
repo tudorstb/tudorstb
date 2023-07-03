@@ -1,10 +1,11 @@
-- 👋 Hello ,my name is Stanescu Tudor-Bogdan
-- 🤖 Student at Universitatea de Vest Timișoara - Computer Science - First year
-- 🦸‍♂️ I’m interested in new and intriguing projects
-- 👨‍💻 Already acquainted with: C++, HTML, CSS, Greenfoot, Python(in progress)
-- 🌱 Just finished a course provided by IT Factory https://www.itfactory.ro/ in which i learned python 
-- 👀 I'm currently looking for a job
-- 📫 You can reach me on my gmail adress:tudor.stanescu.work@gmail.com
+- 👋 Hello, my name is Stanescu Tudor-Bogdan and currently, I am working at Nokia Networks.
+- 🤖 I am a first-year student at Universitatea de Vest Timișoara, studying Computer Science.
+- 🦸‍♂️ I am interested in new and intriguing projects.
+- 👨‍💻 I am already acquainted with C++, Robot Framework, HTML, CSS, and Greenfoot.
+- 🌱 I am proficient in Python.
+- 📫 You can reach me at my Gmail address: tudor.stanescu.work@gmail.com
+
+
 <!---
 tudorstb/tudorstb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
